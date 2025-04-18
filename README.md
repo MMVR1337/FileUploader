@@ -79,8 +79,6 @@ MIT License - See LICENSE for details.
 
 Maintained by MMVR1337
 ✉️ mm.trr@hotmail.com
-🔗 GitHub Profile
-
 
 Key improvements:
 1. **Accurate Technology Stack** - Properly highlights WinAPI/C++/Dropbox focus
